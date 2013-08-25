@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wrath_of_Kaifar-1.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-25 18:50-0400\n"
+"PO-Revision-Date: 2013-08-25 18:50-0400\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. [time]: id=dawn1
+#: Wrath_of_Kaifar/macros/schedules.cfg:10
+msgid "First Dawn"
+msgstr ""
+
+#. [time]: id=morning1
+#: Wrath_of_Kaifar/macros/schedules.cfg:21
+msgid "First Morning"
+msgstr ""
+
+#. [time]: id=midday1
+#: Wrath_of_Kaifar/macros/schedules.cfg:31
+msgid "First Midday"
+msgstr ""
+
+#. [time]: id=afternoon1
+#: Wrath_of_Kaifar/macros/schedules.cfg:41
+msgid "First Afternoon"
+msgstr ""
+
+#. [time]: id=dusk1
+#: Wrath_of_Kaifar/macros/schedules.cfg:51
+msgid "First Dusk"
+msgstr ""
+
+#. [time]: id=short_dark
+#: Wrath_of_Kaifar/macros/schedules.cfg:64
+msgid "The Short Dark"
+msgstr ""
+
+#. [time]: id=dawn2
+#: Wrath_of_Kaifar/macros/schedules.cfg:77
+msgid "Second Dawn"
+msgstr ""
+
+#. [time]: id=morning2
+#: Wrath_of_Kaifar/macros/schedules.cfg:90
+msgid "Second Morning"
+msgstr ""
+
+#. [time]: id=midday2
+#: Wrath_of_Kaifar/macros/schedules.cfg:100
+msgid "Second Midday"
+msgstr ""
+
+#. [time]: id=afternoon2
+#: Wrath_of_Kaifar/macros/schedules.cfg:110
+msgid "Second Afternoon"
+msgstr ""
+
+#. [time]: id=dusk2
+#: Wrath_of_Kaifar/macros/schedules.cfg:120
+msgid "Second Dusk"
+msgstr ""
+
+#. [time]: id=long_dark1
+#: Wrath_of_Kaifar/macros/schedules.cfg:133
+msgid "The Long Dark — First Watch"
+msgstr ""
+
+#. [time]: id=long_dark2
+#: Wrath_of_Kaifar/macros/schedules.cfg:146
+msgid "The Long Dark — Second Watch"
+msgstr ""
+
+#. [time]: id=long_dark3
+#: Wrath_of_Kaifar/macros/schedules.cfg:159
+msgid "The Long Dark — Third Watch"
+msgstr ""
+
+#. [time]: id=long_dark4
+#: Wrath_of_Kaifar/macros/schedules.cfg:172
+msgid "The Long Dark — Fourth Watch"
+msgstr ""
+
+#. [multiplayer]: id=Wrath_of_Kaifar
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:4
+msgid "2p - Wrath of Kaifar"
+msgstr ""
+
+#. [multiplayer]: id=Wrath_of_Kaifar
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:5
+msgid ""
+"A 2-player co-operative survival scenario:\n"
+"\n"
+"The Alliance of Justice, led by the great General Aetheraent himself, has "
+"sent two capable commanders and their regiments to a small island where an "
+"ancient evil sleeps. Now, it is up to this battalion to defend this small "
+"island from the forces of Darkness until reinforcements arrive. Will you "
+"accomplish your objective or die trying?\n"
+"\n"
+"Requires the 'Era of Chaos' add-on.\n"
+"\n"
+"By Tahsin Jahin Khalid (Lord-Knightmare)"
+msgstr ""
+
+#. [side]: id=Kaifar, type=Skeletal Dragon
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:56
+msgid "Hordes of Evil"
+msgstr ""
+
+#. [side]: id=Kaifar, type=Skeletal Dragon
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:59
+msgid "Lord Kaifar"
+msgstr ""
+
+#. [effect]: type=cold
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:84
+msgid "chilling roar"
+msgstr ""
+
+#. [side]: id=leader1
+#. [side]: id=leader2
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:167
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:187
+msgid "Alliance of Irdya"
+msgstr ""
+
+#. [objective]: condition=win
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:196
+msgid "Resist until the end of turns"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:200
+msgid "Death of your leader"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:204
+msgid "Death of your allied leader"
+msgstr ""
+
+#. [note]
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:209
+msgid ""
+"Enemy waves will appear at every 5 turn intervals, starting from turn 3 "
+"onwards."
+msgstr ""
+
+#. [note]
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:212
+msgid ""
+"Each wave will be accompanied by a hero unit. If you kill that unit, you "
+"will receive some information about the enemy you shall face in the end."
+msgstr ""
+
+#. [message]: speaker=leader1
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:252
+msgid ""
+"It seems as if the General was wrong about all of this. No enemies have "
+"attacked here at all!"
+msgstr ""
+
+#. [message]: speaker=leader2
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:256
+msgid ""
+"Do no let your guard down, my friend. The General sent us here for a reason."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:266
+msgid "Unknown Enemy"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:267
+msgid ""
+"<i>(A loud voice from the distance)</i> Attack, my legions! We have finally "
+"found the isle where the master lies imprisoned!"
+msgstr ""
+
+#. [message]: speaker=leader1
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:271
+msgid "What was that?!"
+msgstr ""
+
+#. [message]: speaker=leader2
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:275
+msgid "It seems that we must call forth our warriors to battle after all."
+msgstr ""
+
+#. [message]: speaker=leader1
+#. [message]: speaker=leader2
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:286
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:300
+msgid "Oh, no! Irdya is doomed!"
+msgstr ""
+
+#. [message]: speaker=Vrugish
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:328
+msgid "Attack, my comrades! Kill them all!"
+msgstr ""
+
+#. [message]: speaker=leader1
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:339
+msgid "Who sent you? Answer me!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:343
+msgid "We were employed by the Dark Archon to free a prisoner here."
+msgstr ""
+
+#. [message]: speaker=leader2
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:347
+msgid "Who is the Dark Archon?!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:352
+msgid "The orc succumbs to his wounds before he could give you an answer..."
+msgstr ""
+
+#. [message]: speaker=Ronry
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:378
+msgid "It is time for battle, my minions! Finish them off!"
+msgstr ""
+
+#. [message]: speaker=leader1
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:389
+msgid ""
+"I thought the Elementria Order chose to remain neutral in this war; "
+"supporting neither faction. Why have you attacked us?"
+msgstr ""
+
+#. [message]: speaker=Ronry
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:393
+msgid ""
+"I'm sorry. My mind was controlled by a being known as the Dark Archon. He "
+"made me attack you against me will for it was the only way I could free "
+"myself."
+msgstr ""
+
+#. [message]: speaker=leader2
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:397
+msgid ""
+"Forgive us, friend, for we have dealt you a mortal wound. Is there any last "
+"wish you want us to fulfil for you?"
+msgstr ""
+
+#. [message]: speaker=Ronry
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:401
+msgid "Yes, there is. Please vanquish the evil that sleeps here..."
+msgstr ""
+
+#. [unit]: id=Silas
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:433
+msgid "Silas"
+msgstr ""
+
+#. [message]: speaker=leader2
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:440
+msgid "Darn it! It's a naga raid!"
+msgstr ""
+
+#. [message]: speaker=leader1
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:451
+msgid "Let this one die in peace. There's no use interrogating him..."
+msgstr ""
+
+#. [message]: speaker=Saemyr
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:480
+msgid "By the Dark Dragon, we shall free Master Kaifar!"
+msgstr ""
+
+#. [message]: speaker=leader2
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:491
+msgid "Who on Irdya is Kaifer?!"
+msgstr ""
+
+#. [message]: speaker=Saemyr
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:495
+msgid ""
+"He was a mighty dragon - one of the Dark Dragon's greatest generals. In an "
+"ancient era, he was imprisoned here by the accursed being known as Jahin. "
+"You can't stop us! We shall free him once and for all!"
+msgstr ""
+
+#. [message]: speaker=Astaroth
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:530
+msgid ""
+"I am surprised to see that these inferior pests present such a good "
+"resistance. No matter, we shall kill them soon enough. Attack, my minions!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:541
+msgid "I may have failed but, Master Kaifar will be awakened!"
+msgstr ""
+
+#. [message]: speaker=leader1
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:545
+msgid ""
+"Unbelievable! The accursed Chaos Empire is attacking us! I thought it was "
+"destroyed long ago..."
+msgstr ""
+
+#. [message]: speaker=leader2
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:549
+msgid "Looks like a new power has ascended among them."
+msgstr ""
+
+#. [message]: speaker=Kaifar
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:598
+msgid ""
+"<i>(roars in anger)</i> I have awakened! Now, let me finish this rabble "
+"myself!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:637
+msgid "No! I can't be destroyed! I am Kaifar, the Dragon of Devastation!"
+msgstr ""
+
+#. [unit]: id=Minister Oworan
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:665
+msgid "Minister Oworan"
+msgstr ""
+
+#. [unit]: id=General Aetherraent
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:673
+msgid "General Aetherraent"
+msgstr ""
+
+#. [message]: speaker=Minister Oworan
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:684
+msgid "Thank the Gods of Light, this island still stands!"
+msgstr ""
+
+#. [message]: speaker=leader1
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:688
+msgid "General, what happened?"
+msgstr ""
+
+#. [message]: speaker=General Aetherraent
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:692
+msgid ""
+"The forces of the Chaos empire have mobilised once more. Now, it's time to "
+"send you two and your troops to the frontiers. Are you up to the task?"
+msgstr ""
+
+#. [message]: speaker=leader2
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:696
+msgid "We shall be honoured, General."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:702
+msgid "Scenario Author"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:703
+msgid ""
+"Congratulations on surviving the scenario which many people claim is "
+"impossible. Please give feed-back about it in the <i>Multiplayer "
+"Development</i> sub-forum at the <i>Wesnoth Forums</i> if you want to "
+"suggest any improvements or want to discuss it in general."
+msgstr ""
