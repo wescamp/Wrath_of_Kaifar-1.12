@@ -1,97 +1,100 @@
+#
+# TreefeedXavier <treefeed@mail.ru>, 2014.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Wrath_of_Kaifar-1.12\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-09-27 17:51-0400\n"
-"PO-Revision-Date: 2013-08-25 18:50-0400\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2014-03-23 15:33+0200\n"
+"Last-Translator: TreefeedXavier <treefeed@mail.ru>\n"
+"Language-Team: русский <>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\\n\n"
 
 #. [time]: id=dawn1
 #: Wrath_of_Kaifar/macros/schedules.cfg:10
 msgid "First Dawn"
-msgstr ""
+msgstr "Восход Сэлы"
 
 #. [time]: id=morning1
 #: Wrath_of_Kaifar/macros/schedules.cfg:21
 msgid "First Morning"
-msgstr ""
+msgstr "Первое утро"
 
 #. [time]: id=midday1
 #: Wrath_of_Kaifar/macros/schedules.cfg:31
 msgid "First Midday"
-msgstr ""
+msgstr "Первый полдень"
 
 #. [time]: id=afternoon1
 #: Wrath_of_Kaifar/macros/schedules.cfg:41
 msgid "First Afternoon"
-msgstr ""
+msgstr "Первый вечер"
 
 #. [time]: id=dusk1
 #: Wrath_of_Kaifar/macros/schedules.cfg:51
 msgid "First Dusk"
-msgstr ""
+msgstr "Закат Сэлы"
 
 #. [time]: id=short_dark
 #: Wrath_of_Kaifar/macros/schedules.cfg:64
 msgid "The Short Dark"
-msgstr ""
+msgstr "Короткая ночь"
 
 #. [time]: id=dawn2
 #: Wrath_of_Kaifar/macros/schedules.cfg:77
 msgid "Second Dawn"
-msgstr ""
+msgstr "Восход Найи"
 
 #. [time]: id=morning2
 #: Wrath_of_Kaifar/macros/schedules.cfg:90
 msgid "Second Morning"
-msgstr ""
+msgstr "Второе утро"
 
 #. [time]: id=midday2
 #: Wrath_of_Kaifar/macros/schedules.cfg:100
 msgid "Second Midday"
-msgstr ""
+msgstr "Второй полдень"
 
 #. [time]: id=afternoon2
 #: Wrath_of_Kaifar/macros/schedules.cfg:110
 msgid "Second Afternoon"
-msgstr ""
+msgstr "Второй вечер"
 
 #. [time]: id=dusk2
 #: Wrath_of_Kaifar/macros/schedules.cfg:120
 msgid "Second Dusk"
-msgstr ""
+msgstr "Закат Найи"
 
 #. [time]: id=long_dark1
 #: Wrath_of_Kaifar/macros/schedules.cfg:133
 msgid "The Long Dark — First Watch"
-msgstr ""
+msgstr "Длинная ночь — Первая стража"
 
 #. [time]: id=long_dark2
 #: Wrath_of_Kaifar/macros/schedules.cfg:146
 msgid "The Long Dark — Second Watch"
-msgstr ""
+msgstr "Длинная ночь — Вторая стража"
 
 #. [time]: id=long_dark3
 #: Wrath_of_Kaifar/macros/schedules.cfg:159
 msgid "The Long Dark — Third Watch"
-msgstr ""
+msgstr "Длинная ночь — Третья стража"
 
 #. [time]: id=long_dark4
 #: Wrath_of_Kaifar/macros/schedules.cfg:172
 msgid "The Long Dark — Fourth Watch"
-msgstr ""
+msgstr "Длинная ночь — Четвертая стража"
 
 #. [multiplayer]: id=Wrath_of_Kaifar
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:4
 msgid "2p - Wrath of Kaifar"
-msgstr ""
+msgstr "2 игрока - Гнев Каифы"
 
 #. [multiplayer]: id=Wrath_of_Kaifar
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:5
@@ -108,43 +111,54 @@ msgid ""
 "\n"
 "Created by Tahsin Jahin Khalid (Lord-Knightmare)"
 msgstr ""
+"Сценарий сотрудничества в выживании для 2-х игроков:\n"
+"\n"
+"Альянс Справедливости, под управлением самого великого генерала Айдерайнта, "
+"выслало двух способных командиров с войском на маленький остров, где дремлет "
+"древнее зло. Теперь, задачей отряда будет защита островка от сил Тьмы пока "
+"не прибудет подкрепление. Справитесь ли вы с заданием или умрёте, пытаясь?\n"
+"\n"
+"Требует дополнения Эра Хаоса (Era of Chaos).\n"
+"\n"
+"Создана Tahsin Jahin Khalid (Lord-Knightmare)\n"
+"Перевод TreefeedXavier"
 
 #. [side]: id=Kaifar, type=Skeletal Dragon
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:56
 msgid "Hordes of Evil"
-msgstr ""
+msgstr "Орды зла"
 
 #. [side]: id=Kaifar, type=Skeletal Dragon
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:59
 msgid "Lord Kaifar"
-msgstr ""
+msgstr "Лорд Каифа"
 
 #. [effect]: type=cold
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:84
 msgid "chilling roar"
-msgstr ""
+msgstr "леденящий рёв"
 
 #. [side]: id=leader1
 #. [side]: id=leader2
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:168
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:188
 msgid "Alliance of Irdya"
-msgstr ""
+msgstr "Альянс Ирдии"
 
 #. [objective]: condition=win
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:197
 msgid "Resist until the end of turns"
-msgstr ""
+msgstr "Продержитесь, пока не закончатся ходы."
 
 #. [objective]: condition=lose
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:201
 msgid "Death of your leader"
-msgstr ""
+msgstr "Смерть вашего лидера"
 
 #. [objective]: condition=lose
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:205
 msgid "Death of your allied leader"
-msgstr ""
+msgstr "Смерть вашего союзника"
 
 #. [note]
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:210
@@ -152,6 +166,7 @@ msgid ""
 "Enemy waves will appear at every 5 turn intervals, starting from turn 3 "
 "onwards."
 msgstr ""
+"Волны вражеских сил будут появляться каждые 5 ходов, начиная с третьего."
 
 #. [note]
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:213
@@ -159,6 +174,9 @@ msgid ""
 "Each wave will be accompanied by a hero unit. If you kill that unit, you "
 "will receive some information about the enemy you shall face in the end."
 msgstr ""
+"Каждая волна будет возглавляться героическим бойцом. Если вы убьёте этого "
+"бойца, то получите некоторую информацию о враге, с которым столкнётесь в "
+"конце."
 
 #. [message]: speaker=leader1
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:256
@@ -166,17 +184,20 @@ msgid ""
 "It seems as if the General was wrong about all of this. No enemies have "
 "attacked here at all!"
 msgstr ""
+"Похоже, что генерал ошибся насчёт всего этого. Ни один враг нас не атаковал!"
 
 #. [message]: speaker=leader2
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:260
 msgid ""
 "Do no let your guard down, my friend. The General sent us here for a reason."
 msgstr ""
+"Не позволяй страже расслабляться, мой друг. Генерал не послал бы нас сюда "
+"без причины."
 
 #. [message]: speaker=narrator
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:270
 msgid "Unknown Enemy"
-msgstr ""
+msgstr "Неизвестный враг"
 
 #. [message]: speaker=narrator
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:271
@@ -184,53 +205,55 @@ msgid ""
 "<i>(A loud voice from the distance)</i> Attack, my legions! We have finally "
 "found the isle where the master lies imprisoned!"
 msgstr ""
+"<i>(Громкий голос из далека)</i> Нападайте, мои легионы! Мы наконец нашли "
+"остров на котором хозяин лежит в заточении!"
 
 #. [message]: speaker=leader1
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:275
 msgid "What was that?!"
-msgstr ""
+msgstr "Это ещё что!?"
 
 #. [message]: speaker=leader2
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:279
 msgid "It seems that we must call forth our warriors to battle after all."
-msgstr ""
+msgstr "Похоже что мы всё же должны призвать наших воинов к сражению."
 
 #. [message]: speaker=leader1
 #. [message]: speaker=leader2
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:290
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:304
 msgid "Oh, no! Irdya is doomed!"
-msgstr ""
+msgstr "О, нет! Ирдия обречена!"
 
 #. [message]: speaker=Vrugish
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:332
 msgid "Attack, my comrades! Kill them all!"
-msgstr ""
+msgstr "Атакуйте, товарищи! Убейте всех!"
 
 #. [message]: speaker=leader1
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:343
 msgid "Who sent you? Answer me!"
-msgstr ""
+msgstr "Кто послал тебя? Отвечай!"
 
 #. [message]: speaker=unit
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:347
 msgid "We were employed by the Dark Archon to free a prisoner here."
-msgstr ""
+msgstr "Нас нанял Темный Архонт что бы освободить пленника острова."
 
 #. [message]: speaker=leader2
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:351
 msgid "Who is the Dark Archon?!"
-msgstr ""
+msgstr "Кто это такой - Темный Архонт?!"
 
 #. [message]: speaker=narrator
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:356
 msgid "The orc succumbs to his wounds before he could give you an answer..."
-msgstr ""
+msgstr "Орк скончался от ран прежде чем смог дать ответ..."
 
 #. [message]: speaker=Ronry
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:382
 msgid "It is time for battle, my minions! Finish them off!"
-msgstr ""
+msgstr "Настало время битвы, прислужники! Прикончить всех!"
 
 #. [message]: speaker=leader1
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:393
@@ -238,6 +261,8 @@ msgid ""
 "I thought the Elementria Order chose to remain neutral in this war; "
 "supporting neither faction. Why have you attacked us?"
 msgstr ""
+"Я считал что Орден Элементарий решил сохранять нейтралитет в этой войне; не "
+"поддерживая ни одну из сторон. Почему вы напали на нас?"
 
 #. [message]: speaker=Ronry
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:397
@@ -246,6 +271,9 @@ msgid ""
 "made me attack you against me will for it was the only way I could free "
 "myself."
 msgstr ""
+"Простите. Мой разум контролирует некто, известный как Темный Архонт. Он "
+"заставил меня нападать на вас против моей воли, и это было единственным "
+"способом освободиться от контроля."
 
 #. [message]: speaker=leader2
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:401
@@ -253,36 +281,38 @@ msgid ""
 "Forgive us, friend, for we have dealt you a mortal wound. Is there any last "
 "wish you want us to fulfil for you?"
 msgstr ""
+"Прости нас, друг, за то что нанесли тебе смертельные раны. Есть ли у тебя "
+"последнее желание, которое мы могли бы исполнить для тебя?"
 
 #. [message]: speaker=Ronry
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:405
 msgid "Yes, there is. Please vanquish the evil that sleeps here..."
-msgstr ""
+msgstr "Да, вот оно: Пожалуйста, сотрите с лица земли зло, что дремлет тут..."
 
 #. [unit]: id=Silas
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:437
 msgid "Silas"
-msgstr ""
+msgstr "Силас"
 
 #. [message]: speaker=leader2
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:444
 msgid "Darn it! It's a naga raid!"
-msgstr ""
+msgstr "Вот каналья! Это отряды нагов!"
 
 #. [message]: speaker=leader1
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:455
 msgid "Let this one die in peace. There's no use interrogating him..."
-msgstr ""
+msgstr "Пускай покоится с миром. Нет надобности допрашивать его..."
 
 #. [message]: speaker=Saemyr
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:482
 msgid "By the Dark Dragon, we shall free Master Kaifar!"
-msgstr ""
+msgstr "Во имя Темного Дракона, мы должны освободить господина Каифу!"
 
 #. [message]: speaker=leader2
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:493
 msgid "Who on Irdya is Kaifer?!"
-msgstr ""
+msgstr "Кто такой, во имя Ирдии, этот Каифа?!"
 
 #. [message]: speaker=Saemyr
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:497
@@ -291,6 +321,9 @@ msgid ""
 "ancient era, he was imprisoned here by the accursed being known as Jahin. "
 "You can't stop us! We shall free him once and for all!"
 msgstr ""
+"Он был могучим драконом - один из величайших начальников Тёмных Драконов. В "
+"древние века, он был заточён тут ненавистным Жахином. Вы не сможете "
+"остановить нас! Наш долг освободить его раз и навсегда!"
 
 #. [message]: speaker=Astaroth
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:532
@@ -298,11 +331,14 @@ msgid ""
 "I am surprised to see that these inferior pests present such a good "
 "resistance. No matter, we shall kill them soon enough. Attack, my minions!"
 msgstr ""
+"Я изумлён картиной того, как эти никчёмные животные оказывают такое хорошее "
+"сопротивление. Впрочем, не важно - мы вскоре перебьём их всех. В атаку, мои "
+"приспешники!"
 
 #. [message]: speaker=unit
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:543
 msgid "I may have failed but, Master Kaifar will be awakened!"
-msgstr ""
+msgstr "Возможно я и пал, но господин Каифа будет пробуждён!"
 
 #. [message]: speaker=leader1
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:547
@@ -310,11 +346,13 @@ msgid ""
 "Unbelievable! The accursed Chaos Empire is attacking us! I thought it was "
 "destroyed long ago..."
 msgstr ""
+"Невероятно! Проклятая Империя Хаоса нападает на нас! Я полагал, она давно "
+"уничтожена..."
 
 #. [message]: speaker=leader2
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:551
 msgid "Looks like a new power has ascended among them."
-msgstr ""
+msgstr "Похоже какая-то новая сила возродила их."
 
 #. [message]: speaker=Kaifar
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:682
@@ -322,31 +360,32 @@ msgid ""
 "<i>(roars in anger)</i> I have awakened! Now, let me finish this rabble "
 "myself!"
 msgstr ""
+"<i>(ревёт в гневе)</i> Я пробудился! Теперь я сам покончу с этим сбродом!"
 
 #. [message]: speaker=unit
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:719
 msgid "No! I can't be destroyed! I am Kaifar, the Dragon of Devastation!"
-msgstr ""
+msgstr "Нет! я не могу быть уничтожен! Я - Каифа, Дракон Разрушитель!"
 
 #. [unit]: id=Minister Oworan
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:747
 msgid "Minister Oworan"
-msgstr ""
+msgstr "Министр Оворан"
 
 #. [unit]: id=General Aetherraent
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:755
 msgid "General Aetherraent"
-msgstr ""
+msgstr "Генерал Айдерайнт"
 
 #. [message]: speaker=Minister Oworan
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:766
 msgid "Thank the Gods of Light, this island still stands!"
-msgstr ""
+msgstr "Возблагодарим Светлых Богов, за то что остров всё ещё стоит!"
 
 #. [message]: speaker=leader1
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:770
 msgid "General, what happened?"
-msgstr ""
+msgstr "Генерал, что случилось?"
 
 #. [message]: speaker=General Aetherraent
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:774
@@ -354,16 +393,18 @@ msgid ""
 "The forces of the Chaos empire have mobilised once more. Now, it's time to "
 "send you two and your troops to the frontiers. Are you up to the task?"
 msgstr ""
+"Силы Империи Хаоса снова мобилизовались. Настало время перебросить вас и "
+"ваших людей на передовую. Вы готовы к заданию?"
 
 #. [message]: speaker=leader2
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:778
 msgid "We shall be honoured, General."
-msgstr ""
+msgstr "Это будет честь для нас, генерал."
 
 #. [message]: speaker=narrator
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:784
 msgid "Scenario Author"
-msgstr ""
+msgstr "Автор сценария"
 
 #. [message]: speaker=narrator
 #: Wrath_of_Kaifar/scenarios/Wrath_of_Kaifar.cfg:785
@@ -373,3 +414,7 @@ msgid ""
 "Development</i> sub-forum at the <i>Wesnoth Forums</i> if you want to "
 "suggest any improvements or want to discuss it in general."
 msgstr ""
+"поздравляем с выживанием в сценарии, которое многие люди заявляли: \"Это "
+"невозможно!\" Пожалуйста, оставьте отзыв на под-форуме <i>Разработка "
+"мультиплеера (Multiplayer Development)</i> на сайте <i>Форума Веснота</i> "
+"если вы желаете выразить любое мнение или обсудить что-либо по сцнарию."
